@@ -1,5 +1,3 @@
-# 8-Bit Breadboard Computer Project
-
 Here we document our 8-bit breadboard computer build. 
 
 ## Contents
