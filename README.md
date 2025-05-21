@@ -34,3 +34,4 @@ Here we document our 8-bit breadboard computer build.
 * 1 × 10 watt AC-to-DC regulated switching wall adapter (US)
 * 1 × DC jack to screw terminal adapter for connecting power
 
+## Test header
