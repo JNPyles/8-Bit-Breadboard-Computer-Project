@@ -2,6 +2,8 @@
 
 Here we document our 8-bit breadboard computer build. 
 
+## Contents
+
 ## Overview
 
 ## Build Journal
