@@ -1,15 +1,36 @@
-Here we document our 8-bit breadboard computer build. 
+Here we document our build of Ben Eater's 8-bit breadboard computer. 
 
 ## Contents
-* [link to test header](#test-header)
+* [Project Overview](#project-overview)
+* [Setup](#setup)
+* [Clock Module](#clock-module)
+* [Registers](#registers)
+* [ALU](#alu)
+* [RAM](#ram)
+* [Program Counter](#program-counter)
+* [Display](#display)
+* [Control Unit](#control-unit)
+* [Programming](#programming)
 
-## Overview
+## Project Overview
 
-## Build Journal
+## Setup
 
-### Unboxing and Setup
+## Clock Module
 
-### Clock Module
+## Registers
+
+## ALU
+
+## RAM
+
+## Program Counter
+
+## Display
+
+## Control Unit
+
+## Programming
 
 #### Parts List
 * 1 × Breadboard (High quality BusBoard Prototype Systems BB830)
@@ -33,4 +54,3 @@ Here we document our 8-bit breadboard computer build.
 * 1 × 10 watt AC-to-DC regulated switching wall adapter (US)
 * 1 × DC jack to screw terminal adapter for connecting power
 
-## Test header
