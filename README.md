@@ -3,6 +3,7 @@
 Here we document our 8-bit breadboard computer build. 
 
 ## Contents
+* [link to test header](#test-header)
 
 ## Overview
 
