@@ -18,6 +18,15 @@ Here we document our build of Ben Eater's 8-bit breadboard computer.
 
 ## Clock Module
 
+### Video 1
+We followed along with [Ben's first video for the clock module](https://www.youtube.com/watch?v=kRlSFm519Bo&list=PLowKtXNTBypGqImE405J2565dvjafglHU&index=2&ab_channel=BenEater). We assembled the clock as Ben did in the video using the parts from the kit. 
+
+**Problem: Ben's Kit Doesn't Include a 100K Resistor**
+
+When we powered the circuit, we found that the LED was faintly lit, but it was not blinking. After unsuccessfully troubleshooting for a bit, we asked the r/beneater subreddit for assistance: https://www.reddit.com/r/beneater/comments/1ktz0w6/help_with_clock/. We quickly received a number of helpful replies, and we learned that the problem was with the 1K resistor we used. In the video, Ben uses a 100K resistor, but his kit only includes, 220, 1K, and 1M resistors. We used the 1K resistor instead of the 100K, but this turned out to be a mistake. The clock speed depends on the resistor. The less resistance, the faster the clock. Since we used a resistor that was 100 times weaker than the resistor Ben uses in the video, the clock was blinking too fast to see. Following advice from Reddit, we swapped the 1K resistor for a 100K we had on hand, and it solve the problem. 
+
+![clock_resistor_problem](https://github.com/user-attachments/assets/f2dfea99-4195-4185-a8eb-898c4263ca1f)
+
 ## Registers
 
 ## ALU
