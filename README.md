@@ -25,7 +25,7 @@ We followed along with [Ben's first video for the clock module](https://www.yout
 
 When we powered the circuit, we found that the LED was faintly lit, but it was not blinking. After unsuccessfully troubleshooting for a bit, we [asked the r/beneater subreddit for assistance](https://www.reddit.com/r/beneater/comments/1ktz0w6/help_with_clock/) and quickly received a number of helpful replies. We learned that the problem was with the 1K resistor we used. In the video, Ben uses a 100K resistor, but his kit only includes, 220, 1K, and 1M resistors. We used the 1K resistor instead of the 100K, but this turned out to be a mistake. The clock speed depends on the resistor. The less resistance, the speedier the clock. Since we used a resistor that was 100 times weaker than the resistor Ben uses in the video, the clock was blinking too fast to see. Following advice from Reddit, we swapped the 1K resistor for a 100K we had on hand, and it solve the problem. If you don't have a 100K resistor, you can proceed to the end of the video where Ben adds a potentiometer. The potentiometer is included in the kit and provides sufficient resitance to slow the clock down enough to see the LED blink. 
 
-![clock_resistor_problem](https://github.com/user-attachments/assets/f2dfea99-4195-4185-a8eb-898c4263ca1f)
+![clock_resistor_problem_1](https://github.com/user-attachments/assets/15e0650c-3ba0-44df-b79b-a7fdd49dce10)
 
 ### Video 2
 One issue we ran into while following along with the [second clock module video](https://youtu.be/81BgFhm2vz8) was that the potentiometer sometimes got knocked lose when we accidentally bumped it. We were able to secure the potentiometer a little better by straightening out the pins, but we still need to be careful not to bump it.
