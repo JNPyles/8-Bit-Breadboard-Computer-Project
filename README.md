@@ -30,6 +30,10 @@ One issue we ran into while following along with the [second clock module video]
 
 ![clock_video_2](https://github.com/user-attachments/assets/d619e982-e294-4983-ba80-3329a376d1de)
 
+We ended up soldering pins to the potentiometer leads, which solved the problem: 
+
+![IMG_1838_potentiometer](https://github.com/user-attachments/assets/e78ab233-a08f-487b-8284-d7b422c26c46)
+
 ## Registers
 We tried to keep all wires visible and accessible. This required us to elevate some of the wires slightly.
 ![IMG_1824_register](https://github.com/user-attachments/assets/10e443b8-69e8-430a-96da-649f1e6f3bbb)
@@ -46,6 +50,7 @@ The ALU wiring is complex because, so we needed to be creative to avoid overlapp
 ![IMG_1834_ALU](https://github.com/user-attachments/assets/4f365334-177a-4c75-b537-c32847a4a97f)
 
 ALU adding by 1: 
+
 ![ALU_GIF](https://github.com/user-attachments/assets/77cb6284-b2e1-497d-b318-f1efe95fa001)
 
 ## RAM
